@@ -1,4 +1,6 @@
-## **Enhanced Meta Reinforcement Learning using Demonstrations in Sparse Reward Environments**
+## MY IMPLEMENTATION of **Enhanced Meta Reinforcement Learning using Demonstrations in Sparse Reward Environments**
+This is my own implementation of EMRLD.
+
 [*Code for Enhanced Meta Reinforcement Learning using Demonstrations in Sparse Reward Environments (NeurIPS 2022)*](https://arxiv.org/abs/2209.13048)
 
 This code is based on a public meta-rl github repository  [learn2learn](https://github.com/learnables/learn2learn/)
